@@ -4,8 +4,50 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0L8I82gn8DyJBNwd_0Nj-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="AfPHlgVxdCcqtdi9Rfbz-27" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeColor=#97D077;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="280" y="130" width="20" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AfPHlgVxdCcqtdi9Rfbz-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AfPHlgVxdCcqtdi9Rfbz-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="AfPHlgVxdCcqtdi9Rfbz-9" value="0x2000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AfPHlgVxdCcqtdi9Rfbz-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AfPHlgVxdCcqtdi9Rfbz-12" value="0x1000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AfPHlgVxdCcqtdi9Rfbz-13" value="&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;低地址内存&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AfPHlgVxdCcqtdi9Rfbz-14" value="&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;高地址内存&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="70" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AfPHlgVxdCcqtdi9Rfbz-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="AfPHlgVxdCcqtdi9Rfbz-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="130" as="sourcePoint" />
+            <mxPoint x="450" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfPHlgVxdCcqtdi9Rfbz-16" value="FP_a" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AfPHlgVxdCcqtdi9Rfbz-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="240" as="sourcePoint" />
+            <mxPoint x="280" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfPHlgVxdCcqtdi9Rfbz-26" value="SP_a" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AfPHlgVxdCcqtdi9Rfbz-28" value="&lt;font style=&quot;color: rgb(151, 208, 119);&quot;&gt;函数a栈区&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="170" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
